@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/Users/snapmartinc/Downloads/wdd_ar/android/app"
+    name=":app"
+    type="APP"
+    maven="wdd_ar:app:"
+    gradle="7.3.1"
+    buildFolder="build"
+    bootClassPath="/Users/snapmartinc/Library/Android/sdk/platforms/android-33/android.jar:/Users/snapmartinc/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

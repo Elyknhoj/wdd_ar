@@ -1,0 +1,6 @@
+module Pods_wdd_ar {
+  umbrella header "Pods-wdd_ar-umbrella.h"
+
+  export *
+  module * { export * }
+}

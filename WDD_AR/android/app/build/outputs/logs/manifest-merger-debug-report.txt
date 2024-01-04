@@ -1,0 +1,596 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/snapmartinc/.gradle/caches/transforms-3/78849f144acfe48841156c5a1c4cf1ec/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/snapmartinc/.gradle/caches/transforms-3/024dbf42cdc8215807d769da963f7240/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/snapmartinc/.gradle/caches/transforms-3/7791fe77b8ab9730d0e25ce55c6aa090/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [:react-native-splash-screen] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:lottie-react-native] /Users/snapmartinc/Downloads/wdd_ar/node_modules/lottie-react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-camera] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-permissions] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-android:0.71.11] /Users/snapmartinc/.gradle/caches/transforms-3/e72c384b604489998aa7d7b6ebf2cf81/transformed/jetified-react-android-0.71.11-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/f3943d8a412f5e1e3b3bc94fe68c3ee4/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/84d4b3ef1f958b0d912404edb910746e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/99aff712051ad58ba66b2f75862e9a10/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.react:hermes-android:0.71.11] /Users/snapmartinc/.gradle/caches/transforms-3/8634fceadc952a6e77b244014cd0e9dd/transformed/jetified-hermes-android-0.71.11-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/snapmartinc/.gradle/caches/transforms-3/c9bd024e1950645d86b630b5a7b35a74/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/a66b40010c47d35a10124f7d66afc72f/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/b5c8b1cd3f7da139fd5ba6bff41cbbf8/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/3f05a8b136cab825355249fde291a124/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/1df169c75df34a1acf6d8755eed73158/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/snapmartinc/.gradle/caches/transforms-3/e3d484eaa5fe1c880b0f1e9ca468cd70/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/f207e6818cb03f8f52a7c04d20776d52/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/08795a93e7e11d9a77cd43b54c877d17/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/3fbc570340cd31009a625424b2365a05/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/5a750c59fbdab6d17fb5929c462fcf6c/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/ea869a5c82b142118677be9cc95455c2/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/snapmartinc/.gradle/caches/transforms-3/849a2bfd51db2f8814130636457ff317/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/32f9472e8df1fa5cc4b9ff5674b2dc24/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/6f0ba1df8d23bac0ba9557636dae923b/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/0c3f71035cd34703b9abdf4fde798012/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/295d932b379575e3efb71d537e37240b/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.airbnb.android:lottie:6.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/5eb442bda1f323f7d93a27af8a9af04c/transformed/jetified-lottie-6.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/snapmartinc/.gradle/caches/transforms-3/5c13c32454e1c2bc0b953fcca3620f03/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/snapmartinc/.gradle/caches/transforms-3/1ebf47d3dd0e5a81935f335e067e5ab1/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/3e400e764e72267520d66e28283812a2/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/8a384341752d328d6389029a8be9e815/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1df6b23ae872903d78fc8423dcda63e5/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/4660bc21375389e763ca9d910adec3d6/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/snapmartinc/.gradle/caches/transforms-3/2d470dc0633e0141943ce2f2d221b070/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/snapmartinc/.gradle/caches/transforms-3/1b390636356fec7edbd70727d6ff7282/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:17.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/b16568c891cc1c16c74e378af0080f10/transformed/jetified-common-17.2.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/7e60f2020e39ec14eb6a4f930141aaee/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/snapmartinc/.gradle/caches/transforms-3/497f45156ea1a721a8119d41c22549f5/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/347f13d1b1f760e27c1ac5b2333789c9/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/snapmartinc/.gradle/caches/transforms-3/009475ad1e3b80ac1111b584b7f6f8f8/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/f4df4192c0fc0fc2bd54755f525f6c86/transformed/jetified-activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/daba213ff0ef2376223f769d2d3b9907/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1465c8141f1cc97f21281a34d8e68734/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/snapmartinc/.gradle/caches/transforms-3/ae27995e6287e7fd33ae4364afb490c1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/snapmartinc/.gradle/caches/transforms-3/a4c840c160268a1ca6a325e3c4345dc9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/cbe5f1c83f5a2c5ce0737dee20bbdd1b/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/3bfd8d340dcb713a0c0ff2f197300e19/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/43e58583ecca1e2908bacd8e4d067e85/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/snapmartinc/.gradle/caches/transforms-3/2b5bdc63d79d2c20f43c2e8f7d768d56/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/snapmartinc/.gradle/caches/transforms-3/b64373fc9cf0284e82c525e511e1a120/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/80e3e367d899906eecd822e1c5fa94b1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/2aa5987ed7ceb6fab4e61af5ddf101bc/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/snapmartinc/.gradle/caches/transforms-3/e60a03660811d454458f7ee623f050a4/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/snapmartinc/.gradle/caches/transforms-3/2bfa9631855cd48792d5f162c727cfa3/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/c694886bc350cf1c8f52cc5a7dd91b16/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/7d2ed41db66e93bea3e003cff09ca834/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/snapmartinc/.gradle/caches/transforms-3/14aba5a6d0866b9b8fe6c2f440101116/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/515a445bfe55ba5146266f53641887c8/transformed/transition-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/0e4a93563ee96f055b81efc3af32138e/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/snapmartinc/.gradle/caches/transforms-3/aae8050c63d9767f8aeaeb1eedc946ef/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/7485f52a65af8e7eff20862b898df9a2/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/f9f280e5ecb70d23c0f2948aeb9fa2ca/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.media:media:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/28cb6e20fa03579911c48e52dd2adf64/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/598da386b4eeceff03617482260b2c61/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/5eabcc03ec9b164f23b8811e98b72728/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/e1256b8dca69ec1292755e10e30fc484/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/7e0349c35caf5fb7d246535efcfcb92c/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/051b94d5509737629068e29ab64fbcdb/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/c1715ee5fa71539d611cc2ecb51327c5/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/6ff713961176329d6793f41384a425fa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/b5f1973cef353c523a488d373817cf76/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/559d20c2360c0b466f043196b5e9f81d/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/b5a02e91bd149114af1f87fc62d0089e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/snapmartinc/.gradle/caches/transforms-3/489511557f39301edbbc004cee395f69/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/2ce02bbb3ec2d3c08ba8f39fe4156da8/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/63394afc6c8761702a867517a701863d/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/99d779b5410bcb0ed593388cffd57f6e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/b51bb27381c1ca95bd95d648b40df69f/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/snapmartinc/.gradle/caches/transforms-3/c5107d5e475ee8dcd270599e360e9f6d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/a9a31b137da737f858330fc533ba6936/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/snapmartinc/.gradle/caches/transforms-3/556b01447b2c2951bd6a872776ea66b3/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/02639a8608dbbeb54d571976ba144a31/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/snapmartinc/.gradle/caches/transforms-3/cf47ff6a7e1af6f0699b27c30f9cb671/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/a3a558311ee849776c10e746c33d96f0/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/snapmartinc/.gradle/caches/transforms-3/3e768e63ad32b1da6e148737ffb6a9d9/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:3:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/snapmartinc/.gradle/caches/transforms-3/7791fe77b8ab9730d0e25ce55c6aa090/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/snapmartinc/.gradle/caches/transforms-3/7791fe77b8ab9730d0e25ce55c6aa090/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/snapmartinc/.gradle/caches/transforms-3/2b5bdc63d79d2c20f43c2e8f7d768d56/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/snapmartinc/.gradle/caches/transforms-3/2b5bdc63d79d2c20f43c2e8f7d768d56/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:4:5-65
+	android:name
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:4:22-63
+application
+ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:6:5-26:19
+MERGED from [com.facebook.react:react-android:0.71.11] /Users/snapmartinc/.gradle/caches/transforms-3/e72c384b604489998aa7d7b6ebf2cf81/transformed/jetified-react-android-0.71.11-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-android:0.71.11] /Users/snapmartinc/.gradle/caches/transforms-3/e72c384b604489998aa7d7b6ebf2cf81/transformed/jetified-react-android-0.71.11-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/snapmartinc/.gradle/caches/transforms-3/849a2bfd51db2f8814130636457ff317/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/snapmartinc/.gradle/caches/transforms-3/849a2bfd51db2f8814130636457ff317/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:6.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/5eb442bda1f323f7d93a27af8a9af04c/transformed/jetified-lottie-6.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.airbnb.android:lottie:6.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/5eb442bda1f323f7d93a27af8a9af04c/transformed/jetified-lottie-6.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1df6b23ae872903d78fc8423dcda63e5/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1df6b23ae872903d78fc8423dcda63e5/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/4660bc21375389e763ca9d910adec3d6/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/4660bc21375389e763ca9d910adec3d6/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/snapmartinc/.gradle/caches/transforms-3/2d470dc0633e0141943ce2f2d221b070/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/snapmartinc/.gradle/caches/transforms-3/2d470dc0633e0141943ce2f2d221b070/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/snapmartinc/.gradle/caches/transforms-3/1b390636356fec7edbd70727d6ff7282/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/snapmartinc/.gradle/caches/transforms-3/1b390636356fec7edbd70727d6ff7282/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:17.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/b16568c891cc1c16c74e378af0080f10/transformed/jetified-common-17.2.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:17.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/b16568c891cc1c16c74e378af0080f10/transformed/jetified-common-17.2.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/7e60f2020e39ec14eb6a4f930141aaee/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/7e60f2020e39ec14eb6a4f930141aaee/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/snapmartinc/.gradle/caches/transforms-3/497f45156ea1a721a8119d41c22549f5/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/snapmartinc/.gradle/caches/transforms-3/497f45156ea1a721a8119d41c22549f5/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/347f13d1b1f760e27c1ac5b2333789c9/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/347f13d1b1f760e27c1ac5b2333789c9/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1465c8141f1cc97f21281a34d8e68734/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1465c8141f1cc97f21281a34d8e68734/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/snapmartinc/.gradle/caches/transforms-3/ae27995e6287e7fd33ae4364afb490c1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/snapmartinc/.gradle/caches/transforms-3/ae27995e6287e7fd33ae4364afb490c1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/snapmartinc/.gradle/caches/transforms-3/a4c840c160268a1ca6a325e3c4345dc9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/snapmartinc/.gradle/caches/transforms-3/a4c840c160268a1ca6a325e3c4345dc9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/snapmartinc/.gradle/caches/transforms-3/2b5bdc63d79d2c20f43c2e8f7d768d56/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/snapmartinc/.gradle/caches/transforms-3/2b5bdc63d79d2c20f43c2e8f7d768d56/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/snapmartinc/.gradle/caches/transforms-3/b64373fc9cf0284e82c525e511e1a120/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/snapmartinc/.gradle/caches/transforms-3/b64373fc9cf0284e82c525e511e1a120/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.core:core:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/559d20c2360c0b466f043196b5e9f81d/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/559d20c2360c0b466f043196b5e9f81d/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/snapmartinc/.gradle/caches/transforms-3/c5107d5e475ee8dcd270599e360e9f6d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/snapmartinc/.gradle/caches/transforms-3/c5107d5e475ee8dcd270599e360e9f6d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/snapmartinc/.gradle/caches/transforms-3/3e768e63ad32b1da6e148737ffb6a9d9/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/snapmartinc/.gradle/caches/transforms-3/3e768e63ad32b1da6e148737ffb6a9d9/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/559d20c2360c0b466f043196b5e9f81d/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:10:7-46
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:10:7-46
+	tools:targetApi
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.wdd_ar.MainActivity
+ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:13:7-25:18
+	android:screenOrientation
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:20:9-45
+	android:label
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:exported
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:19:9-32
+	android:configChanges
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:16:9-118
+	android:name
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml:23:23-70
+uses-sdk
+INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/snapmartinc/.gradle/caches/transforms-3/78849f144acfe48841156c5a1c4cf1ec/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/snapmartinc/.gradle/caches/transforms-3/78849f144acfe48841156c5a1c4cf1ec/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/snapmartinc/.gradle/caches/transforms-3/024dbf42cdc8215807d769da963f7240/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/snapmartinc/.gradle/caches/transforms-3/024dbf42cdc8215807d769da963f7240/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/snapmartinc/.gradle/caches/transforms-3/7791fe77b8ab9730d0e25ce55c6aa090/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/snapmartinc/.gradle/caches/transforms-3/7791fe77b8ab9730d0e25ce55c6aa090/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-splash-screen] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:lottie-react-native] /Users/snapmartinc/Downloads/wdd_ar/node_modules/lottie-react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:lottie-react-native] /Users/snapmartinc/Downloads/wdd_ar/node_modules/lottie-react-native/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-android:0.71.11] /Users/snapmartinc/.gradle/caches/transforms-3/e72c384b604489998aa7d7b6ebf2cf81/transformed/jetified-react-android-0.71.11-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-android:0.71.11] /Users/snapmartinc/.gradle/caches/transforms-3/e72c384b604489998aa7d7b6ebf2cf81/transformed/jetified-react-android-0.71.11-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/f3943d8a412f5e1e3b3bc94fe68c3ee4/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/f3943d8a412f5e1e3b3bc94fe68c3ee4/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/84d4b3ef1f958b0d912404edb910746e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/84d4b3ef1f958b0d912404edb910746e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/99aff712051ad58ba66b2f75862e9a10/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/99aff712051ad58ba66b2f75862e9a10/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.react:hermes-android:0.71.11] /Users/snapmartinc/.gradle/caches/transforms-3/8634fceadc952a6e77b244014cd0e9dd/transformed/jetified-hermes-android-0.71.11-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:hermes-android:0.71.11] /Users/snapmartinc/.gradle/caches/transforms-3/8634fceadc952a6e77b244014cd0e9dd/transformed/jetified-hermes-android-0.71.11-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/snapmartinc/.gradle/caches/transforms-3/c9bd024e1950645d86b630b5a7b35a74/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/snapmartinc/.gradle/caches/transforms-3/c9bd024e1950645d86b630b5a7b35a74/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/a66b40010c47d35a10124f7d66afc72f/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/a66b40010c47d35a10124f7d66afc72f/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/b5c8b1cd3f7da139fd5ba6bff41cbbf8/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/b5c8b1cd3f7da139fd5ba6bff41cbbf8/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/3f05a8b136cab825355249fde291a124/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/3f05a8b136cab825355249fde291a124/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/1df169c75df34a1acf6d8755eed73158/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/1df169c75df34a1acf6d8755eed73158/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/snapmartinc/.gradle/caches/transforms-3/e3d484eaa5fe1c880b0f1e9ca468cd70/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/snapmartinc/.gradle/caches/transforms-3/e3d484eaa5fe1c880b0f1e9ca468cd70/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/f207e6818cb03f8f52a7c04d20776d52/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/f207e6818cb03f8f52a7c04d20776d52/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/08795a93e7e11d9a77cd43b54c877d17/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/08795a93e7e11d9a77cd43b54c877d17/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/3fbc570340cd31009a625424b2365a05/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/3fbc570340cd31009a625424b2365a05/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/5a750c59fbdab6d17fb5929c462fcf6c/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/5a750c59fbdab6d17fb5929c462fcf6c/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/ea869a5c82b142118677be9cc95455c2/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/ea869a5c82b142118677be9cc95455c2/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/snapmartinc/.gradle/caches/transforms-3/849a2bfd51db2f8814130636457ff317/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/snapmartinc/.gradle/caches/transforms-3/849a2bfd51db2f8814130636457ff317/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/32f9472e8df1fa5cc4b9ff5674b2dc24/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/32f9472e8df1fa5cc4b9ff5674b2dc24/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/6f0ba1df8d23bac0ba9557636dae923b/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/6f0ba1df8d23bac0ba9557636dae923b/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/0c3f71035cd34703b9abdf4fde798012/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/0c3f71035cd34703b9abdf4fde798012/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/295d932b379575e3efb71d537e37240b/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/295d932b379575e3efb71d537e37240b/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:6.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/5eb442bda1f323f7d93a27af8a9af04c/transformed/jetified-lottie-6.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.airbnb.android:lottie:6.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/5eb442bda1f323f7d93a27af8a9af04c/transformed/jetified-lottie-6.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/snapmartinc/.gradle/caches/transforms-3/5c13c32454e1c2bc0b953fcca3620f03/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/snapmartinc/.gradle/caches/transforms-3/5c13c32454e1c2bc0b953fcca3620f03/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/snapmartinc/.gradle/caches/transforms-3/1ebf47d3dd0e5a81935f335e067e5ab1/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/snapmartinc/.gradle/caches/transforms-3/1ebf47d3dd0e5a81935f335e067e5ab1/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/3e400e764e72267520d66e28283812a2/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/3e400e764e72267520d66e28283812a2/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/8a384341752d328d6389029a8be9e815/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/8a384341752d328d6389029a8be9e815/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1df6b23ae872903d78fc8423dcda63e5/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1df6b23ae872903d78fc8423dcda63e5/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/4660bc21375389e763ca9d910adec3d6/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/4660bc21375389e763ca9d910adec3d6/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/snapmartinc/.gradle/caches/transforms-3/2d470dc0633e0141943ce2f2d221b070/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/snapmartinc/.gradle/caches/transforms-3/2d470dc0633e0141943ce2f2d221b070/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/snapmartinc/.gradle/caches/transforms-3/1b390636356fec7edbd70727d6ff7282/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/snapmartinc/.gradle/caches/transforms-3/1b390636356fec7edbd70727d6ff7282/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/b16568c891cc1c16c74e378af0080f10/transformed/jetified-common-17.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/b16568c891cc1c16c74e378af0080f10/transformed/jetified-common-17.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/7e60f2020e39ec14eb6a4f930141aaee/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/7e60f2020e39ec14eb6a4f930141aaee/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/snapmartinc/.gradle/caches/transforms-3/497f45156ea1a721a8119d41c22549f5/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/snapmartinc/.gradle/caches/transforms-3/497f45156ea1a721a8119d41c22549f5/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/347f13d1b1f760e27c1ac5b2333789c9/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/347f13d1b1f760e27c1ac5b2333789c9/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/snapmartinc/.gradle/caches/transforms-3/009475ad1e3b80ac1111b584b7f6f8f8/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/snapmartinc/.gradle/caches/transforms-3/009475ad1e3b80ac1111b584b7f6f8f8/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/f4df4192c0fc0fc2bd54755f525f6c86/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/f4df4192c0fc0fc2bd54755f525f6c86/transformed/jetified-activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/daba213ff0ef2376223f769d2d3b9907/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/daba213ff0ef2376223f769d2d3b9907/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1465c8141f1cc97f21281a34d8e68734/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1465c8141f1cc97f21281a34d8e68734/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/snapmartinc/.gradle/caches/transforms-3/ae27995e6287e7fd33ae4364afb490c1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/snapmartinc/.gradle/caches/transforms-3/ae27995e6287e7fd33ae4364afb490c1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/snapmartinc/.gradle/caches/transforms-3/a4c840c160268a1ca6a325e3c4345dc9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/snapmartinc/.gradle/caches/transforms-3/a4c840c160268a1ca6a325e3c4345dc9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/cbe5f1c83f5a2c5ce0737dee20bbdd1b/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/cbe5f1c83f5a2c5ce0737dee20bbdd1b/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/3bfd8d340dcb713a0c0ff2f197300e19/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/3bfd8d340dcb713a0c0ff2f197300e19/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/43e58583ecca1e2908bacd8e4d067e85/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/43e58583ecca1e2908bacd8e4d067e85/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/snapmartinc/.gradle/caches/transforms-3/2b5bdc63d79d2c20f43c2e8f7d768d56/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/snapmartinc/.gradle/caches/transforms-3/2b5bdc63d79d2c20f43c2e8f7d768d56/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/snapmartinc/.gradle/caches/transforms-3/b64373fc9cf0284e82c525e511e1a120/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/snapmartinc/.gradle/caches/transforms-3/b64373fc9cf0284e82c525e511e1a120/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/80e3e367d899906eecd822e1c5fa94b1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/80e3e367d899906eecd822e1c5fa94b1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/2aa5987ed7ceb6fab4e61af5ddf101bc/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/2aa5987ed7ceb6fab4e61af5ddf101bc/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/snapmartinc/.gradle/caches/transforms-3/e60a03660811d454458f7ee623f050a4/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/snapmartinc/.gradle/caches/transforms-3/e60a03660811d454458f7ee623f050a4/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/snapmartinc/.gradle/caches/transforms-3/2bfa9631855cd48792d5f162c727cfa3/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/snapmartinc/.gradle/caches/transforms-3/2bfa9631855cd48792d5f162c727cfa3/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/c694886bc350cf1c8f52cc5a7dd91b16/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/c694886bc350cf1c8f52cc5a7dd91b16/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/7d2ed41db66e93bea3e003cff09ca834/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/7d2ed41db66e93bea3e003cff09ca834/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/snapmartinc/.gradle/caches/transforms-3/14aba5a6d0866b9b8fe6c2f440101116/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/snapmartinc/.gradle/caches/transforms-3/14aba5a6d0866b9b8fe6c2f440101116/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/515a445bfe55ba5146266f53641887c8/transformed/transition-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/515a445bfe55ba5146266f53641887c8/transformed/transition-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/0e4a93563ee96f055b81efc3af32138e/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/0e4a93563ee96f055b81efc3af32138e/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/snapmartinc/.gradle/caches/transforms-3/aae8050c63d9767f8aeaeb1eedc946ef/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/snapmartinc/.gradle/caches/transforms-3/aae8050c63d9767f8aeaeb1eedc946ef/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/7485f52a65af8e7eff20862b898df9a2/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/7485f52a65af8e7eff20862b898df9a2/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/f9f280e5ecb70d23c0f2948aeb9fa2ca/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/f9f280e5ecb70d23c0f2948aeb9fa2ca/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.media:media:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/28cb6e20fa03579911c48e52dd2adf64/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/28cb6e20fa03579911c48e52dd2adf64/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/598da386b4eeceff03617482260b2c61/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/598da386b4eeceff03617482260b2c61/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/5eabcc03ec9b164f23b8811e98b72728/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/5eabcc03ec9b164f23b8811e98b72728/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/e1256b8dca69ec1292755e10e30fc484/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/e1256b8dca69ec1292755e10e30fc484/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/7e0349c35caf5fb7d246535efcfcb92c/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/7e0349c35caf5fb7d246535efcfcb92c/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/051b94d5509737629068e29ab64fbcdb/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/051b94d5509737629068e29ab64fbcdb/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/c1715ee5fa71539d611cc2ecb51327c5/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/c1715ee5fa71539d611cc2ecb51327c5/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/6ff713961176329d6793f41384a425fa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/6ff713961176329d6793f41384a425fa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/b5f1973cef353c523a488d373817cf76/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/b5f1973cef353c523a488d373817cf76/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/559d20c2360c0b466f043196b5e9f81d/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/559d20c2360c0b466f043196b5e9f81d/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/b5a02e91bd149114af1f87fc62d0089e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/b5a02e91bd149114af1f87fc62d0089e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/snapmartinc/.gradle/caches/transforms-3/489511557f39301edbbc004cee395f69/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/snapmartinc/.gradle/caches/transforms-3/489511557f39301edbbc004cee395f69/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/2ce02bbb3ec2d3c08ba8f39fe4156da8/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/2ce02bbb3ec2d3c08ba8f39fe4156da8/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/63394afc6c8761702a867517a701863d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/63394afc6c8761702a867517a701863d/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/99d779b5410bcb0ed593388cffd57f6e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/99d779b5410bcb0ed593388cffd57f6e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/b51bb27381c1ca95bd95d648b40df69f/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/b51bb27381c1ca95bd95d648b40df69f/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/snapmartinc/.gradle/caches/transforms-3/c5107d5e475ee8dcd270599e360e9f6d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/snapmartinc/.gradle/caches/transforms-3/c5107d5e475ee8dcd270599e360e9f6d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/a9a31b137da737f858330fc533ba6936/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/snapmartinc/.gradle/caches/transforms-3/a9a31b137da737f858330fc533ba6936/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/snapmartinc/.gradle/caches/transforms-3/556b01447b2c2951bd6a872776ea66b3/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/snapmartinc/.gradle/caches/transforms-3/556b01447b2c2951bd6a872776ea66b3/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/02639a8608dbbeb54d571976ba144a31/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/snapmartinc/.gradle/caches/transforms-3/02639a8608dbbeb54d571976ba144a31/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/snapmartinc/.gradle/caches/transforms-3/cf47ff6a7e1af6f0699b27c30f9cb671/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/snapmartinc/.gradle/caches/transforms-3/cf47ff6a7e1af6f0699b27c30f9cb671/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/a3a558311ee849776c10e746c33d96f0/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/a3a558311ee849776c10e746c33d96f0/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/snapmartinc/.gradle/caches/transforms-3/3e768e63ad32b1da6e148737ffb6a9d9/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/snapmartinc/.gradle/caches/transforms-3/3e768e63ad32b1da6e148737ffb6a9d9/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /Users/snapmartinc/Downloads/wdd_ar/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/snapmartinc/.gradle/caches/transforms-3/7791fe77b8ab9730d0e25ce55c6aa090/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/snapmartinc/.gradle/caches/transforms-3/7791fe77b8ab9730d0e25ce55c6aa090/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.CAMERA
+ADDED from [:react-native-camera] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:react-native-camera] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/snapmartinc/Downloads/wdd_ar/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:15:9-57
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1df6b23ae872903d78fc8423dcda63e5/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/4660bc21375389e763ca9d910adec3d6/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/4660bc21375389e763ca9d910adec3d6/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/snapmartinc/.gradle/caches/transforms-3/2d470dc0633e0141943ce2f2d221b070/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/snapmartinc/.gradle/caches/transforms-3/2d470dc0633e0141943ce2f2d221b070/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/snapmartinc/.gradle/caches/transforms-3/1b390636356fec7edbd70727d6ff7282/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/snapmartinc/.gradle/caches/transforms-3/1b390636356fec7edbd70727d6ff7282/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:17.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/b16568c891cc1c16c74e378af0080f10/transformed/jetified-common-17.2.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:17.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/b16568c891cc1c16c74e378af0080f10/transformed/jetified-common-17.2.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1df6b23ae872903d78fc8423dcda63e5/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/b16568c891cc1c16c74e378af0080f10/transformed/jetified-common-17.2.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/b16568c891cc1c16c74e378af0080f10/transformed/jetified-common-17.2.0/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1df6b23ae872903d78fc8423dcda63e5/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1df6b23ae872903d78fc8423dcda63e5/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1df6b23ae872903d78fc8423dcda63e5/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1df6b23ae872903d78fc8423dcda63e5/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:13:17-120
+meta-data#com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/4660bc21375389e763ca9d910adec3d6/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/4660bc21375389e763ca9d910adec3d6/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/4660bc21375389e763ca9d910adec3d6/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.text.internal.TextRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/snapmartinc/.gradle/caches/transforms-3/2d470dc0633e0141943ce2f2d221b070/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/snapmartinc/.gradle/caches/transforms-3/2d470dc0633e0141943ce2f2d221b070/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/snapmartinc/.gradle/caches/transforms-3/2d470dc0633e0141943ce2f2d221b070/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:16.5.0] /Users/snapmartinc/.gradle/caches/transforms-3/1b390636356fec7edbd70727d6ff7282/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:16.5.0] /Users/snapmartinc/.gradle/caches/transforms-3/1b390636356fec7edbd70727d6ff7282/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:16.5.0] /Users/snapmartinc/.gradle/caches/transforms-3/1b390636356fec7edbd70727d6ff7282/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:17.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/b16568c891cc1c16c74e378af0080f10/transformed/jetified-common-17.2.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/b16568c891cc1c16c74e378af0080f10/transformed/jetified-common-17.2.0/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/b16568c891cc1c16c74e378af0080f10/transformed/jetified-common-17.2.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/b16568c891cc1c16c74e378af0080f10/transformed/jetified-common-17.2.0/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/b16568c891cc1c16c74e378af0080f10/transformed/jetified-common-17.2.0/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:17.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/b16568c891cc1c16c74e378af0080f10/transformed/jetified-common-17.2.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/b16568c891cc1c16c74e378af0080f10/transformed/jetified-common-17.2.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/b16568c891cc1c16c74e378af0080f10/transformed/jetified-common-17.2.0/AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/7e60f2020e39ec14eb6a4f930141aaee/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/7e60f2020e39ec14eb6a4f930141aaee/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/7e60f2020e39ec14eb6a4f930141aaee/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/7e60f2020e39ec14eb6a4f930141aaee/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/347f13d1b1f760e27c1ac5b2333789c9/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/347f13d1b1f760e27c1ac5b2333789c9/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/snapmartinc/.gradle/caches/transforms-3/347f13d1b1f760e27c1ac5b2333789c9/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1465c8141f1cc97f21281a34d8e68734/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/snapmartinc/.gradle/caches/transforms-3/ae27995e6287e7fd33ae4364afb490c1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/snapmartinc/.gradle/caches/transforms-3/ae27995e6287e7fd33ae4364afb490c1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/snapmartinc/.gradle/caches/transforms-3/a4c840c160268a1ca6a325e3c4345dc9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/snapmartinc/.gradle/caches/transforms-3/a4c840c160268a1ca6a325e3c4345dc9/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1465c8141f1cc97f21281a34d8e68734/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1465c8141f1cc97f21281a34d8e68734/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1465c8141f1cc97f21281a34d8e68734/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1465c8141f1cc97f21281a34d8e68734/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1465c8141f1cc97f21281a34d8e68734/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1465c8141f1cc97f21281a34d8e68734/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/snapmartinc/.gradle/caches/transforms-3/1465c8141f1cc97f21281a34d8e68734/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/snapmartinc/.gradle/caches/transforms-3/ae27995e6287e7fd33ae4364afb490c1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/snapmartinc/.gradle/caches/transforms-3/ae27995e6287e7fd33ae4364afb490c1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/snapmartinc/.gradle/caches/transforms-3/ae27995e6287e7fd33ae4364afb490c1/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/snapmartinc/.gradle/caches/transforms-3/2b5bdc63d79d2c20f43c2e8f7d768d56/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/snapmartinc/.gradle/caches/transforms-3/b64373fc9cf0284e82c525e511e1a120/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/snapmartinc/.gradle/caches/transforms-3/b64373fc9cf0284e82c525e511e1a120/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/snapmartinc/.gradle/caches/transforms-3/2b5bdc63d79d2c20f43c2e8f7d768d56/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:22-76
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/snapmartinc/.gradle/caches/transforms-3/2b5bdc63d79d2c20f43c2e8f7d768d56/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/snapmartinc/.gradle/caches/transforms-3/b64373fc9cf0284e82c525e511e1a120/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/snapmartinc/.gradle/caches/transforms-3/b64373fc9cf0284e82c525e511e1a120/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/snapmartinc/.gradle/caches/transforms-3/2b5bdc63d79d2c20f43c2e8f7d768d56/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/snapmartinc/.gradle/caches/transforms-3/2b5bdc63d79d2c20f43c2e8f7d768d56/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/snapmartinc/.gradle/caches/transforms-3/2b5bdc63d79d2c20f43c2e8f7d768d56/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/snapmartinc/.gradle/caches/transforms-3/2b5bdc63d79d2c20f43c2e8f7d768d56/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/snapmartinc/.gradle/caches/transforms-3/2b5bdc63d79d2c20f43c2e8f7d768d56/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/snapmartinc/.gradle/caches/transforms-3/b64373fc9cf0284e82c525e511e1a120/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/snapmartinc/.gradle/caches/transforms-3/b64373fc9cf0284e82c525e511e1a120/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/snapmartinc/.gradle/caches/transforms-3/b64373fc9cf0284e82c525e511e1a120/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/snapmartinc/.gradle/caches/transforms-3/b64373fc9cf0284e82c525e511e1a120/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/snapmartinc/.gradle/caches/transforms-3/b64373fc9cf0284e82c525e511e1a120/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/snapmartinc/.gradle/caches/transforms-3/b64373fc9cf0284e82c525e511e1a120/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/snapmartinc/.gradle/caches/transforms-3/b64373fc9cf0284e82c525e511e1a120/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/559d20c2360c0b466f043196b5e9f81d/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/559d20c2360c0b466f043196b5e9f81d/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/559d20c2360c0b466f043196b5e9f81d/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.wdd_ar.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/559d20c2360c0b466f043196b5e9f81d/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/559d20c2360c0b466f043196b5e9f81d/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/559d20c2360c0b466f043196b5e9f81d/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/559d20c2360c0b466f043196b5e9f81d/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/559d20c2360c0b466f043196b5e9f81d/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.wdd_ar.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/559d20c2360c0b466f043196b5e9f81d/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/snapmartinc/.gradle/caches/transforms-3/559d20c2360c0b466f043196b5e9f81d/transformed/core-1.9.0/AndroidManifest.xml:26:22-94

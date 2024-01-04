@@ -1,0 +1,7 @@
+#Mon Dec 11 12:10:25 PST 2023
+base.1=/Users/snapmartinc/Downloads/wdd_ar/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/Users/snapmartinc/Downloads/wdd_ar/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

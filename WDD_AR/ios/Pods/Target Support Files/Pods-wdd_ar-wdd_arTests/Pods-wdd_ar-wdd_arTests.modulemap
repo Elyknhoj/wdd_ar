@@ -1,0 +1,6 @@
+module Pods_wdd_ar_wdd_arTests {
+  umbrella header "Pods-wdd_ar-wdd_arTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
